@@ -3,7 +3,4 @@ kheer
 pasta
 pizza
 
-
-beans
-carrot
-ginger
+Final content
