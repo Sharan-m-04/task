@@ -2,3 +2,8 @@ Fried rice
 kheer
 pasta
 pizza
+
+
+beans
+carrot
+ginger
